@@ -214,7 +214,7 @@
 #about .left{
     width: 681px;
     height: 545px;
-    background-image: url('../assets/foods.png');
+    background-image: url("../assets/foods.png");
 }
 #about .left img{
     width: 681px;
